@@ -1,4 +1,4 @@
-npmtest-react-hot-loader@0.0.1 /home/travis/build/npmtest/node-npmtest-react-hot-loader
+npmtest-react-hot-loader@0.0.2 /home/travis/build/npmtest/node-npmtest-react-hot-loader
 └─┬ react@15.5.4 
   ├─┬ fbjs@0.8.12 
   │ ├── core-js@1.2.7 
