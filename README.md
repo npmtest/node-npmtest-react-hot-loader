@@ -1,6 +1,6 @@
 # npmtest-react-hot-loader
 
-#### test coverage for  [react-hot-loader (v1.3.1)](https://github.com/gaearon/react-hot-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-react-hot-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-hot-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-hot-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-react-hot-loader)
+#### basic test coverage for  [react-hot-loader (v1.3.1)](https://github.com/gaearon/react-hot-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-react-hot-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-hot-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-hot-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-react-hot-loader)
 
 #### Tweak React components in real time.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-hot-loader/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-hot-loader/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-hot-loader/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-hot-loader/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-hot-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-hot-loader/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-hot-loader/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-hot-loader/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-hot-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-hot-loader/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-hot-loader/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-hot-loader/build/coverage.html/index.html)
 
@@ -83,7 +83,8 @@
         "url": "git+https://github.com/gaearon/react-hot-loader.git"
     },
     "scripts": {},
-    "version": "1.3.1"
+    "version": "1.3.1",
+    "bin": {}
 }
 ```
 

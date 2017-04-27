@@ -1,11 +1,11 @@
-npmtest-react-hot-loader@0.0.2 /home/travis/build/npmtest/node-npmtest-react-hot-loader
+npmtest-react-hot-loader@0.0.3 /home/travis/build/npmtest/node-npmtest-react-hot-loader
 └─┬ react@15.5.4 
   ├─┬ fbjs@0.8.12 
   │ ├── core-js@1.2.7 
   │ ├─┬ isomorphic-fetch@2.2.1 
   │ │ ├─┬ node-fetch@1.6.3 
   │ │ │ ├─┬ encoding@0.1.12 
-  │ │ │ │ └── iconv-lite@0.4.15 
+  │ │ │ │ └── iconv-lite@0.4.16 
   │ │ │ └── is-stream@1.1.0 
   │ │ └── whatwg-fetch@2.0.3 
   │ ├─┬ promise@7.1.1 
